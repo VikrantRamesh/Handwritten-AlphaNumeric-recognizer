@@ -1,0 +1,10 @@
+.canvas-container {
+    height: 300px;
+    width: 300px;
+    border: 2px solid #000;
+}
+.draw-container{
+    margin: 2% auto;
+    align-items: center;
+    text-align: center;
+}
